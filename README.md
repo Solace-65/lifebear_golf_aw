@@ -89,4 +89,7 @@ You can adjust the chunk size by modifying the chunk_size variable in the script
 License
 This script is provided under the MIT License. You are free to modify and distribute the code.
 
+![pic](LifeBear_Clean.png)
+
+
 
